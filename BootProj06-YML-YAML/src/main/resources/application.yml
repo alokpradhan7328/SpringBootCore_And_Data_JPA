@@ -1,0 +1,41 @@
+
+#EMPLOYEE INFO
+org:
+   alok:
+   
+      #for simple properties
+      eno: 111
+      ename: ALok
+      
+      #for array
+      fav-bike:
+         - DUCATI
+         - BMW
+         - KAWASAKI
+         - RE
+         
+      #for set
+      contact-no:
+         - 89898989
+         - 98989898
+         - 12121212
+         - 12345678
+         
+      #for List
+      nickNames: [Aditya,Adii,Deepu]#inline
+      
+      #for map collection
+      eid:
+         voterid: 11111
+         pancard: 22222
+         adhar: 123456
+         
+         
+      #for has a property
+      company:
+         name: NIT
+         addr: Hyd
+         pinCode: 500016
+         contact: 089056787
+      
+      
