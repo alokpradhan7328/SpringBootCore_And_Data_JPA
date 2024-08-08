@@ -1,0 +1,5 @@
+Name: Alok Pradhan
+Age: 22
+Dob: 11 Sep 2001
+Adds: Odisha
+Qualification: Master's of Computer Application
